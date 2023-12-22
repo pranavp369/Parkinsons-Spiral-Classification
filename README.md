@@ -1,1 +1,1 @@
-#Spiral image classification for Parkinsons' Diagnosis
+# Spiral image classification for Parkinsons' Diagnosis
