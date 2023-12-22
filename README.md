@@ -9,3 +9,6 @@ The original dataset provided was 80 images of handwritten spiral drawings consi
 ## Classification Pipeline
 
 The newly augmented dataset was sent into a Pre-trained neural network module where ResNet50 model was used for feature extraction. The extracted features are sent into machine learning modules where several machine learning models like Support Vector Machine (SVM), Discriminant Analysis (LDA and QDA), K-Nearest Neighbour (KNN) and Decision Tree Classifier and AdaBoost Classifier were trained to binary classify between control patients and parkinsons' patients.
+
+
+![image](https://github.com/pranavp369/Parkinsons-Spiral-Classification/assets/41821351/c1e73825-75de-4152-89aa-c35ada963c76)
