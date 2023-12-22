@@ -17,3 +17,8 @@ The newly augmented dataset was sent into a Pre-trained neural network module wh
 
 
 ![image](https://github.com/pranavp369/Parkinsons-Spiral-Classification/assets/41821351/c1e73825-75de-4152-89aa-c35ada963c76)
+
+## Project Report
+The link for the report of this project is given below:
+
+
