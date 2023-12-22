@@ -4,5 +4,5 @@ This repository contains code and data for the binary classification problem of 
 
 ## Project Details
 
-MODEL Used : ResNet50 </br>
+MODEL Used : ResNet50 <br \>
 Epochs : 50
