@@ -4,7 +4,7 @@ This repository contains code and data for the binary classification problem of 
 
 ## Project Details
 
-MODEL Used : ResNet50 <br \>
-Epochs : 50    <br \>
-Loss Function : Cross Entropy Loss <br \>
-Optimizer : Stochastic Gradient Descent with Momentum<br \>
+MODEL Used : ResNet50 <br />
+Epochs : 50    <br />
+Loss Function : Cross Entropy Loss <br />
+Optimizer : Stochastic Gradient Descent with Momentum<br />
