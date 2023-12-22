@@ -21,4 +21,6 @@ The newly augmented dataset was sent into a Pre-trained neural network module wh
 ## Project Report
 The link for the report of this project is given below:
 
+https://drive.google.com/file/d/1mX6LGtM2MNz0coJc-JM33mNyd5kSDyT2/view?usp=sharing
+
 
